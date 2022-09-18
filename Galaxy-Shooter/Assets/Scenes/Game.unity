@@ -431,6 +431,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _enemyPrefab: {fileID: 6811664093530567595, guid: f6376e5e05ff64830858ee4d3f4e18cd, type: 3}
+  _tripleShotPowerupPrefab: {fileID: 3617391691767214274, guid: 979c64f28453c484e96ad1bbc095d0f7, type: 3}
   _spawnWaitTime: 3
   _enemyContainer: {fileID: 1813831432}
 --- !u!1 &1730052667
