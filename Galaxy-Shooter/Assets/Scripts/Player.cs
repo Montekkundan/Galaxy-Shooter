@@ -61,7 +61,7 @@ public class Player : MonoBehaviour
         _canFire = Time.time + _fireRate;
         if (_isTripleShotActive == true)
         {
-            Instantiate(_tripleShotPrefab, transform.position, Quaternion.identity);
+            Instantiate(_tripleShotPrefab, transform.position+ new Vector3(0.9f,0,0), Quaternion.identity);
         }
         else
         {

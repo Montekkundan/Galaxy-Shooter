@@ -470,7 +470,7 @@ MonoBehaviour:
   _tripleShotPrefab: {fileID: 2583004245853462890, guid: aceb8e0e1a610487fbad8c0a961e4bc1, type: 3}
   _fireRate: 0.15
   _lives: 3
-  _isTripleShotActive: 0
+  _isTripleShotActive: 1
 --- !u!212 &1730052669
 SpriteRenderer:
   m_ObjectHideFlags: 0
