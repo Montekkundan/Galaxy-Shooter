@@ -356,6 +356,7 @@
 "Assets/Scripts/Player.cs"
 "Assets/Scripts/Powerup.cs"
 "Assets/Scripts/SpawnManager.cs"
+"Assets/Scripts/UIManager.cs"
 -langversion:9.0
 
 /deterministic
