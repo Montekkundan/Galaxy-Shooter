@@ -354,6 +354,7 @@
 "Assets/Scripts/Enemy.cs"
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/Laser.cs"
+"Assets/Scripts/Main_Menu/MainMenu.cs"
 "Assets/Scripts/Player.cs"
 "Assets/Scripts/Powerup.cs"
 "Assets/Scripts/SpawnManager.cs"
