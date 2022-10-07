@@ -59,3 +59,6 @@ sysinfo.txt
 crashlytics-build.properties
 
 .DS_Store
+Galaxy-Shooter/Window Playable Build/
+Galaxy-Shooter/Mac Playable Build/
+Galaxy-Shooter/Library/PlayerDataCache/
